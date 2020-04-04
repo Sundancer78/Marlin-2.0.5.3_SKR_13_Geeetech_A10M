@@ -1,0 +1,72 @@
+{
+    "configurations": [
+        {
+            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags"
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "c:/Users/skoda/Documents/GitHub/Marlin-2.0.5.3_SKR_13_Geeetech_A10M/Marlin",
+                "c:/Users/skoda/Documents/GitHub/Marlin-2.0.5.3_SKR_13_Geeetech_A10M/.pio/libdeps/LPC1768/SailfishLCD",
+                "c:/Users/skoda/Documents/GitHub/Marlin-2.0.5.3_SKR_13_Geeetech_A10M/.pio/libdeps/LPC1768/Adafruit NeoPixel",
+                "C:/Users/skoda/.platformio/lib/TMCStepper_ID5513/src",
+                "c:/Users/skoda/Documents/GitHub/Marlin-2.0.5.3_SKR_13_Geeetech_A10M/.pio/libdeps/LPC1768/U8glib-HAL_ID1932/src",
+                "C:/Users/skoda/.platformio/packages/framework-arduino-lpc176x/libraries/LiquidCrystal/src",
+                "C:/Users/skoda/.platformio/packages/framework-arduino-lpc176x/libraries/Servo/src",
+                "c:/Users/skoda/Documents/GitHub/Marlin-2.0.5.3_SKR_13_Geeetech_A10M/Marlin/src/HAL/LPC1768/include",
+                "c:/Users/skoda/Documents/GitHub/Marlin-2.0.5.3_SKR_13_Geeetech_A10M/Marlin/src/HAL/LPC1768/u8g",
+                "C:/Users/skoda/.platformio/packages/framework-arduino-lpc176x/cores/arduino",
+                "C:/Users/skoda/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/include",
+                "C:/Users/skoda/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/lib",
+                "C:/Users/skoda/.platformio/packages/framework-arduino-lpc176x/system/lpc176x",
+                "C:/Users/skoda/.platformio/lib/U8glib-HAL_ID1932/src",
+                "C:/Users/skoda/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "c:/Users/skoda/Documents/GitHub/Marlin-2.0.5.3_SKR_13_Geeetech_A10M/Marlin",
+                    "c:/Users/skoda/Documents/GitHub/Marlin-2.0.5.3_SKR_13_Geeetech_A10M/.pio/libdeps/LPC1768/SailfishLCD",
+                    "c:/Users/skoda/Documents/GitHub/Marlin-2.0.5.3_SKR_13_Geeetech_A10M/.pio/libdeps/LPC1768/Adafruit NeoPixel",
+                    "C:/Users/skoda/.platformio/lib/TMCStepper_ID5513/src",
+                    "c:/Users/skoda/Documents/GitHub/Marlin-2.0.5.3_SKR_13_Geeetech_A10M/.pio/libdeps/LPC1768/U8glib-HAL_ID1932/src",
+                    "C:/Users/skoda/.platformio/packages/framework-arduino-lpc176x/libraries/LiquidCrystal/src",
+                    "C:/Users/skoda/.platformio/packages/framework-arduino-lpc176x/libraries/Servo/src",
+                    "c:/Users/skoda/Documents/GitHub/Marlin-2.0.5.3_SKR_13_Geeetech_A10M/Marlin/src/HAL/LPC1768/include",
+                    "c:/Users/skoda/Documents/GitHub/Marlin-2.0.5.3_SKR_13_Geeetech_A10M/Marlin/src/HAL/LPC1768/u8g",
+                    "C:/Users/skoda/.platformio/packages/framework-arduino-lpc176x/cores/arduino",
+                    "C:/Users/skoda/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/include",
+                    "C:/Users/skoda/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/lib",
+                    "C:/Users/skoda/.platformio/packages/framework-arduino-lpc176x/system/lpc176x",
+                    "C:/Users/skoda/.platformio/lib/U8glib-HAL_ID1932/src",
+                    "C:/Users/skoda/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "LPC176X_FRAMEWORK",
+                "TARGET_LPC1768",
+                "F_CPU=100000000L",
+                "MCU_LPC1768",
+                "PIO_PLATFORM_VERSION=1001UL",
+                "PIO_FRAMEWORK_VERSION=2002UL",
+                "PLATFORMIO=40301",
+                "U8G_HAL_LINKS",
+                "__MARLIN_FIRMWARE__",
+                "ARDUINO_ARCH_LPC176X",
+                "ARDUINOLPC=10805",
+                ""
+            ],
+            "intelliSenseMode": "clang-x64",
+            "cppStandard": "c++17",
+            "compilerPath": "C:/Users/skoda/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc.exe",
+            "compilerArgs": [
+                "-mthumb",
+                "-mcpu=cortex-m3",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
