@@ -31,3 +31,4 @@
 *.out
 *.app
 .pio/build/LPC1768/firmware.elf
+Marlin/
