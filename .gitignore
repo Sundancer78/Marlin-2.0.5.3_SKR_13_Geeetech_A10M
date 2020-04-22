@@ -32,3 +32,6 @@
 *.app
 .pio/build/LPC1768/firmware.elf
 Marlin/
+.pio/libdeps/esp32/ESP32SSPD/
+.pio/libdeps/esp32/ESP3DLib/
+.pio/libdeps/esp32/WebSockets/
